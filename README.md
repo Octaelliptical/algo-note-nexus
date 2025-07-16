@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# this is react project
 
 ## Project info
 
